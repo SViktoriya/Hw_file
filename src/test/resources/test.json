@@ -1,0 +1,14 @@
+{
+  "name": "John",
+  "fullName": "John Smith",
+  "age": 30,
+  "address": {
+    "city": "Moscow",
+    "street": "Arbat"
+  },
+  "cars": [
+    "Ford",
+    "BMW",
+    "Fiat"
+  ]
+}
